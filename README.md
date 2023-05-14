@@ -20,11 +20,11 @@
 
 
 
-<p>&nbsp;<img margin-left: auto; margin-right: auto; align="center" src="https://github-readme-stats.vercel.app/api?username=badhusha3214&show_icons=true&locale=en" alt="badhusha3214" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badhusha3214&show_icons=true&locale=en" alt="badhusha3214" /></p>
 
-<p><img margin-left: auto; margin-right: auto; align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhusha3214&" alt="badhusha3214" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhusha3214&" alt="badhusha3214" /></p>
 
-<p align="center"><img margin-left: auto; margin-right: auto; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhusha3214&show_icons=true&locale=en&layout=compact" alt="badhusha3214" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhusha3214&show_icons=true&locale=en&layout=compact" alt="badhusha3214" /></p>
 
 <!--
 **Badhusha3214/badhusha3214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
