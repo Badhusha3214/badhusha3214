@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Badhusha Shaji</h1>
 <h3 align="center">A passionate frontend | IOT developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhusha3214" alt="badhusha3214" /></a> </p>
-
 - 🌱 I’m currently learning **Js**
 
 - 📫 How to reach me **Badhusha.shaji22@gmail.com**
